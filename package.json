@@ -1,0 +1,21 @@
+{
+  "name": "websockettetris",
+  "version": "1.0.0",
+  "description": "network multiplayer tetris",
+  "main": "index.html",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "tetris",
+    "js",
+    "network",
+    "websocket",
+    "ws"
+  ],
+  "author": "David",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.2.5"
+  }
+}
